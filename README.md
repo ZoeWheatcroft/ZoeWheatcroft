@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZoeWheatcroft
+### Hi, I’m @ZoeWheatcroft
 - 👀 My main thing is game design and development
 - 🌱 I’m currently learning openGL and C++
 - 💞️ I’m looking to collaborate on hackathons
