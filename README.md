@@ -7,6 +7,6 @@
 - ✨ check out my stuff on itch! https://zoew.itch.io/
 
 ### Experience 
-<img src = "https://github.com/ZoeWheatcroft/ZoeWheatcroft/blob/main/UnityLogo.png" width = "70" />
+<img src = "https://github.com/ZoeWheatcroft/ZoeWheatcroft/blob/main/UnityLogo.png" width = "70" /> <img src = "https://github.com/ZoeWheatcroft/ZoeWheatcroft/blob/main/UnrealLogo.png" width = "70" />
+
 The majority of my experience is in Unity, C# and Java. I also know Python and C, and I'm currently building my Unreal and C++ skills. 
-<img src = "https://github.com/ZoeWheatcroft/ZoeWheatcroft/blob/main/UnrealLogo.png" width = "70" />
